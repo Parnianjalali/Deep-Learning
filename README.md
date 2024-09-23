@@ -5,9 +5,9 @@ This repository contains several deep learning projects including Emotion Recogn
 ## Projects
 
 ### 1. Emotion Recognition for TFD Dataset
-- **Description**: A convolutional neural network (CNN) model to recognize emotions from facial expressions.
+- **Description**: A MLP model to recognize emotions from facial expressions.
 - **Dataset**: TFD (Toronto Face Dataset)
-- **Model**: Utilizes Conv2D, MaxPooling2D, Dense layers with ReLU and Sigmoid activation functions.
+- **Model**: Utilizes Dense layers with ReLU and Sigmoid activation functions.
 - **Training**: Trained with binary_crossentropy loss and Adam optimizer.
 
 ### 2. Ethereum Price Estimation with RNNs
